@@ -1,2 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ptkm1/PedroTypeMello)
+# Api ecossistema IIPM
 
+Esta api foi desenvolvida com nodejs e typescript, para sustentar a base de dados do instituto e realizar operações na mesma.
